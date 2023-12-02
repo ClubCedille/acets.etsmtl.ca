@@ -11,7 +11,7 @@ logo:
     type: image/png
     size: 1824
     path: user/themes/mache/images/logo.png
-left_footer: "&copy; 2015 COPYRIGHT MACHE TEMPLATE\r\n\r\nFree Template by FreeTemplates.pro\r\n"
+left_footer: "&copy; 2015 COPYRIGHT MACHE TEMPLATE\nFree Template by FreeTemplates.pro\nHébergé par Club Cédille\n"
 right_footer: 'DESIGNED BY SYMU.CO'
 blog_thumbnail_width: 600
 blog_thumbnail_height: 450
