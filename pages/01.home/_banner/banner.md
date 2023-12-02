@@ -1,7 +1,7 @@
 ---
 title: 'AVION CARGO'
 menu: Home
-heading: '<span>Mache</span> FREE psd Template'
+heading: '<span>Avion Cargo</span>'
 button_label: 'SHOW MORE'
 button_url: '#'
 background_image: banner.png
