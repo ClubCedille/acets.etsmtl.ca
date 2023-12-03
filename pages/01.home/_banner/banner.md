@@ -2,7 +2,7 @@
 title: 'AVION CARGO'
 menu: Home
 heading: '<span>Avion Cargo</span>'
-button_label: 'SHOW MORE'
+button_label: 'En savoir plus'
 button_url: '#'
 background_image: acets.png
 media_order: 'banner.png,acets.png'
