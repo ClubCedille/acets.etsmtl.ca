@@ -1,6 +1,6 @@
 ---
 title: 'AVION CARGO'
-menu: Home
+menu: Accueil
 heading: '<span>Avion Cargo</span>'
 button_label: 'En savoir plus'
 button_url: '#'
