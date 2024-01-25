@@ -1,6 +1,6 @@
 ---
 title: 'Our Latest Updates'
-blog_route: /blog/sunshine-in-the-hills
+blog_route: /blog
 show_more_label: 'SHOW MORE'
 blog_post_quantity: '3'
 menu: Updates
