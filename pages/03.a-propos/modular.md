@@ -1,6 +1,7 @@
 ---
 title: 'À propos'
 cache_enable: false
+menu: test
 content:
     items: '@self.modular'
     order:
