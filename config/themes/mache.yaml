@@ -1,10 +1,5 @@
 enabled: true
-favicon:
-  user/themes/mache/images/favicon.png:
-    name: favicon.png
-    type: image/png
-    size: 1177
-    path: user/themes/mache/images/favicon.png
+favicon: {  }
 logo:
   user/themes/mache/images/logo.png:
     name: logo.png
