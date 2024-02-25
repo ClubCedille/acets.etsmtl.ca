@@ -4,7 +4,7 @@ menu: Accueil
 heading: '<span>Avion Cargo</span>'
 button_label: 'En savoir plus'
 button_url: '#'
-background_image: acets.png
+background_image: banner.png
 media_order: 'banner.png,acets.png,ACETS_FOND_NOIR.svg'
 ---
 
