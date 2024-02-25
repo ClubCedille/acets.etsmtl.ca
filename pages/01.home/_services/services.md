@@ -1,6 +1,6 @@
 ---
 title: Phénix
-menu: 'LE PROJET'
+menu: Prototype
 services:
     -
         icon: s1.png
