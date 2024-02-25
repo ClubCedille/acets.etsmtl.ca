@@ -1,6 +1,6 @@
 ---
 title: 'Que faisons-nous'
-menu: 'À PROPOS'
+menu: 'À propos'
 right_image: rightlaptop.png
 right_image_alt: 'Powerfull PSD template available for free!'
 link_url: '#'
