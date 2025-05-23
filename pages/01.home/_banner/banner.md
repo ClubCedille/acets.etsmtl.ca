@@ -1,5 +1,5 @@
 ---
-title: 'AVION CARGO ÉTS'
+title: ACÉTS
 menu: Accueil
 heading: '<span>Avion Cargo</span>'
 button_label: 'En savoir plus'
