@@ -1,7 +1,7 @@
 ---
 title: ACÉTS
 menu: Accueil
-heading: '<span>Avion Cargo</span>'
+heading: '<span>ACÉTS</span>'
 button_label: 'En savoir plus'
 button_url: '#'
 background_image: acets.png
